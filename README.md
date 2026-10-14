@@ -10,4 +10,4 @@ This project has a documentation (`Documentazione.pdf`) which is written in Ital
 
 ## Compiling
 
-To compile, just execute the make command, make clean to clean the objects.
+To compile, just execute the make command, make clean to delete the objects.
